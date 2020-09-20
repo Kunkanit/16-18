@@ -1,0 +1,5 @@
+﻿  cone.cpp
+D:\VS\c++1\17\17\cone.cpp(9,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VS\c++1\17\17\cone.cpp(17,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VS\c++1\17\17\cone.cpp(24,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  17.vcxproj -> D:\VS\c++1\17\Debug\17.exe
